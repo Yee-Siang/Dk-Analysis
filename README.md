@@ -36,6 +36,7 @@ main.ipynb -- 輸入兩筆data後做出預測之Dk<br>
 https://hackmd.io/IV7xLYAGRHOYziyKad6oJw?view&fbclid=IwAR1H63cE8HQOluJ0pFwEyhm8PfzyguvH_cjwIh5pYG_VHRrBCU8E9HpzaO4#%E5%8B%95%E6%A9%9F
 <br>我們進一步做出更密集的運算結果，歸納出了同時預測Dk和Df的演算法:
 <br>https://hackmd.io/tTJzYGnSTdulDGT5-8eknA?view
+<br>![image](https://user-images.githubusercontent.com/55400183/131246226-60eda4d6-14b8-4320-ba14-f0f3f2c5b549.png)
 
 ## 額外的分析結果 -- Size Consideration
 做出 Gain 與 Beamwidth之波動與起伏，將來收集更大量之數據以實現更廣泛的運算框架
