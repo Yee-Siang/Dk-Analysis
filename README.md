@@ -24,7 +24,7 @@ Material Measurements Algorithm
 1. 確保每個回歸的相關係數是夠強的<br>
 2. 確保每個回歸的斜率是夠顯著的<br>
 3. 確保存在一種分配，使得演算法得以涵蓋宇集<br>
-![image](https://user-images.githubusercontent.com/55400183/131245713-61f965a4-a8ad-49f1-b816-745f1c59789a.png)
+![image](https://user-images.githubusercontent.com/55400183/131257257-9c7d10be-f997-4473-a9e2-fda0edc756bf.png)
 <br>對於不同變數(Df、Size Consideration)將在Decision Tree有相應之調整
 
 ## 操作工具
