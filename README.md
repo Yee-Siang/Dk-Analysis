@@ -20,7 +20,7 @@ Material Measurements Algorithm
 從中心3dB寬度分析，也考慮Local Max / Min改變<br>
 ![image](https://user-images.githubusercontent.com/55400183/131245604-2ef86e1f-b590-417c-97c3-e5a5267f3e30.png)
 
-### 實驗結果
+## 實驗結果
 1. 確保每個回歸的相關係數是夠強的<br>
 2. 確保每個回歸的斜率是夠顯著的<br>
 3. 確保存在一種分配，使得演算法得以涵蓋宇集<br>
